@@ -28,7 +28,7 @@ Tutorial YouTube
 
 [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/DzNIL45qHaM)
 
-Ganti session lu di `'./RadBotZ.json'`
+Ganti session lu di `'./app.json'`
 
 ## settings 
 Edit Nomor Owner DLL `'./config.js'`
