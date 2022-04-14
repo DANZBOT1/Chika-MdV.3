@@ -34,7 +34,7 @@ Ganti session lu di `'./RadBotZ.json'`
 Edit Nomor Owner DLL `'./config.js'`
 ```ts 
 OwnerNumber = ['wa.me/6285733374626']
-GithubOwner = ['https://github.com/LANxBOT']
+GithubOwner = ['https://github.com/DANZBOT1']
 GroupOwner = ['https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD']
 Apikey? = Apikey kalian, tidak paham? chat saya di wangsaf!
 
@@ -69,7 +69,7 @@ node .
 ```
 
 ---------
-### LynnXzy stat
+### Gleen stat
 ![Ra Github stat](https://github-readme-stats.vercel.app/api?username=LynnXzy&theme=midnight-purple&show_icons=true) 
 
 ![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=LynnXzy&theme=monokai)
@@ -77,4 +77,6 @@ node .
 
 # My Sosial 
 - [Group ](https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD) 
-- [Whatsapp ](https://wa.me/60189830350)
+- [Whatsapp ](https://wa.me/62733374626)
+
+`'.By GleenBotz'`
