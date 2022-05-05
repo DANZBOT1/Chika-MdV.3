@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://telegra.ph/file/809410340f33f15544905.png" alt="Gleen🥀" width="200"/>
+<img src="https://telegra.ph/file/809410340f33f15544905.png" alt=Axel🥀" width="200"/>
 
 
 <p align="center"> <a href="https://Lexxy24.github.io"> <img src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Created+By+Gleen+Aowkwowkwkwkwk" alt="Lexxy Official" /> </a> </p>
@@ -69,7 +69,7 @@ node .
 ```
 
 ---------
-### Gleen stat
+### Axel stat
 ![Ra Github stat](https://github-readme-stats.vercel.app/api?username=LynnXzy&theme=midnight-purple&show_icons=true) 
 
 ![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=LynnXzy&theme=monokai)
@@ -79,4 +79,4 @@ node .
 - [Group ](https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD) 
 - [Whatsapp ](https://wa.me/62733374626)
 
-`'.By GleenBotz'`
+`'.By AxelClouds'`
